@@ -16,7 +16,7 @@ Want to  Develope something Secure Don't wait just contact me i'm here for you, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/devansh-gaur-90962a208/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-gaur-90962a208" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/om-prakash-bairwa-a82a2b203/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-gaur-90962a208" height="30" width="40" /></a>
 <a href="https://www.facebook.com/profile.php?id=100015261882314/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="devansh-gaur-90962a208" height="30" width="40" /></a>
 <a href="https://www.instagram.com/royal_iitian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="devansh-gaur-90962a208" height="30" width="40" /></a>
 <a href="https://wa.me/+918955616391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="devansh-gaur-90962a208" height="30" width="40" /></a>
