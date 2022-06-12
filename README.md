@@ -50,25 +50,16 @@ Want to  Develope something Secure Don't wait just contact me i'm here for you, 
 </p>
 
 ## 📊 My Github Stats
-
-
   <br/>
     <a href="https://github.com/omprakash1999mina/github-readme-stats"><img alt="Om Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omprakash1999mina&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
   <a href="https://github.com/omprakash1999mina/github-readme-stats"><img alt="Om Prakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash1999mina&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-
-  <br/>
-
+<br/>
+</p>
   <b>Note:</b> Top languages is only a metric of the languages that my public code has.
 
 <br/>
-<br/>
 
-<a href="https://github.com/omprakash1999mina/github-readme-activity-graph"><img alt="Om Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omprakash1999mina&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
-
-<br/>
-
-***
 
 ## Connect with me:
 
@@ -78,4 +69,13 @@ Want to  Develope something Secure Don't wait just contact me i'm here for you, 
 <a href="https://www.instagram.com/royal_iitian/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Om Prakash Bairwa" height="30" width="40" /></a>
 <a href="https://wa.me/+918955616391" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg" alt="Om Prakash Bairwa" height="30" width="40" /></a>
 <a href="mailto:omprakash.bairwa.iitbhu20@gmail.com" target="blank"><img align="center" src="https://img.icons8.com/external-flatart-icons-lineal-color-flatarticons/50/000000/external-mail-design-thinking-and-3d-model-printing-flatart-icons-lineal-color-flatarticons.png" alt="Om Prakash Bairwa" height="40" width="40" /></a>
-</p>
+
+<br/>
+
+***
+
+<br/>
+
+<a href="https://github.com/omprakash1999mina/github-readme-activity-graph"><img alt="Om Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omprakash1999mina&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+
+<br/>
