@@ -8,7 +8,7 @@
 
 ***
 ### Some Trophies I have, don't know what for ;)
-[![trophy](https://github-profile-trophy.vercel.app/?username=omprakash1999mina&column=10&theme=onedark)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=omprakash1999mina&column=10&theme=onedark)](#)
 
 ***
 
@@ -44,16 +44,16 @@ Want to  Develope something Secure Don't wait just contact me i'm here for you, 
 <br/>
 
 <p align="center">
-    <a href="https://github.com/omprakash1999mina/github-readme-streak-stats">
+    <a href="#">
         <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Om Prakash's streak" src="https://github-readme-streak-stats.herokuapp.com/?user=omprakash1999mina&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 
 ## 📊 My Github Stats
   <br/>
-    <a href="https://github.com/omprakash1999mina/github-readme-stats"><img alt="Om Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omprakash1999mina&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="#"><img alt="Om Prakash's Github Stats" src="https://github-readme-stats.vercel.app/api?username=omprakash1999mina&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
 
-  <a href="https://github.com/omprakash1999mina/github-readme-stats"><img alt="Om Prakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash1999mina&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="#"><img alt="Om Prakash's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=omprakash1999mina&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
 <br/>
 </p>
   <b>Note:</b> Top languages is only a metric of the languages that my public code has.
@@ -76,6 +76,6 @@ Want to  Develope something Secure Don't wait just contact me i'm here for you, 
 
 <br/>
 
-<a href="https://github.com/omprakash1999mina/github-readme-activity-graph"><img alt="Om Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omprakash1999mina&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
+<a href="#"><img alt="Om Prakash's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=omprakash1999mina&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
