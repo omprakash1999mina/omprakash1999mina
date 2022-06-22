@@ -1,7 +1,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=omprakash1999mina&label=Profile%20views&color=0e75b6&style=flat" alt="Om Prakash" /> </p>
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 
-<h1 align="center">Hello 👋, Friends's Om Prakash This Side !!</h1>
+<h1 align="center">Hello 👋, Friend's Om Prakash This Side !!</h1>
 <h3 align="center">I'm a passionate Software Developer from India.</h3>
 <h3 align="center">Security Made things Simple and Committed for better future.</h3>
 <!-- <br/> -->
